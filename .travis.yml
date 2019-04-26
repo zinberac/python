@@ -1,2 +1,2 @@
-script:
-	sh test.sh
+language: shell
+script: true
